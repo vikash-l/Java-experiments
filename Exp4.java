@@ -33,7 +33,7 @@ class PremiumSavingsAccount extends SavingsAccount {
 
 public class Exp4 {
     public static void main(String[] args) {
-        SavingsAccount saving = new SavingsAccount("Sudharshan", "S101");
+        SavingsAccount saving = new SavingsAccount("Vikash", "S101");
         CurrentAccount current = new CurrentAccount("Arun", "C101");
         PremiumSavingsAccount premium = new xp5.javaPremiumSavingsAccount("Kumar", "P101");
 
